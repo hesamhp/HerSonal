@@ -51,7 +51,10 @@ Portfolio:  hesamhp.ir
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css);
 
 
-
+.matn{
+  min-width: 100%;
+  max-width: 100%;
+}
 
 /* -------------------------------------------
 
